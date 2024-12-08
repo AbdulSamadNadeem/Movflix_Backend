@@ -1,6 +1,5 @@
 /node_modules/
 
-# Ignore config environment files
 config.env
-.config.env
-.config.local.env
+
+data
